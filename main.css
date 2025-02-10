@@ -28,7 +28,6 @@ a {
 .text-box {
   height: auto;
   width: auto;
-  margin: 1vh;
   /* background-color: rgba(255,255,255,0.8); */
   border-radius: 1vh;
   justify-content: center;
@@ -48,5 +47,6 @@ a {
 .logo {
   display: block;
   margin: 0 auto;
-  width: 400px;
+  width: 80vw;
+  max-width: 400px;
 }
